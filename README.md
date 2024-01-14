@@ -7,7 +7,7 @@
 /play \<keyword/youtube link> - finds the song on youtube and plays it in your current channel. Will resume playing the current song if it was paused\
 /queue - displays the current music queue\
 /skip - skips the current song being played\
-/disconnect - Disconnected the bot from the voice channel\
+/disconnect - Disconnected the bot from the voice channel
 
 ## Installation
 - To run the discord bot first you need python 3.4 or above.
