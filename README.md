@@ -10,8 +10,8 @@
 /disconnect - Disconnected the bot from the voice channel\
 
 ## Installation
-- To run the discord bot first you need python 3.4 or above.\
-- Run `pip install -r requirements.txt` to install all of the python dependencies.\
+- To run the discord bot first you need python 3.4 or above.
+- Run `pip install -r requirements.txt` to install all of the python dependencies.
 - FFMPEG:
     - Windows: Install `ffmpeg` from https://ffmpeg.org/download.html and make sure that the path to the bin folder is in your environment variables. 
     - Linux: run `sudo apt install ffmpeg -y`
