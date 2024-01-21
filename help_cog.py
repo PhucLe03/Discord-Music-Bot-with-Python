@@ -17,7 +17,8 @@ General commands:
 {self.bot.command_prefix}queue - displays the current music queue
 {self.bot.command_prefix}play <keywords/link> - finds the song on youtube and plays it in your current channel. Will resume playing the current song if it was paused
 {self.bot.command_prefix}skip - skips the current song being played
-{self.bot.command_prefix}disconnect - get the bot disconnected from the voice channel\
+{self.bot.command_prefix}disconnect - get the bot disconnected from the voice channel
+Note: Please be careful with copyright.\
 ```
 """
 
